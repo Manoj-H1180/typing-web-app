@@ -2,7 +2,7 @@
 
 ##
 #live link: `https://typing-web-app-red.vercel.app/`
-
+##
 This is a web-based application for touch typing, which allows users to practice typing without looking at the keyboard. The application focuses on practicing the 8 keys of the keyboard: 'a', 's', 'd', 'f', 'j', 'k', 'l', and ';'.
 
 ## Components and State
